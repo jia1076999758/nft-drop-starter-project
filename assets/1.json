@@ -1,0 +1,19 @@
+{
+  "name": "zuozhu",
+  "symbol": "huoying",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "yZunrV1fWH6kkY3AgiKNHkkrAWPwoZzdbQf3RnkU2Mk",
+        "share": 100
+      }
+    ]
+  }
+}

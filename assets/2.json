@@ -1,0 +1,19 @@
+{
+  "name": "xiaoying",
+  "symbol": "huoying",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "yZunrV1fWH6kkY3AgiKNHkkrAWPwoZzdbQf3RnkU2Mk",
+        "share": 100
+      }
+    ]
+  }
+}

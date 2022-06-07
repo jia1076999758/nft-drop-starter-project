@@ -1,0 +1,19 @@
+{
+  "name": "mingren",
+  "symbol": "huoying",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "yZunrV1fWH6kkY3AgiKNHkkrAWPwoZzdbQf3RnkU2Mk",
+        "share": 100
+      }
+    ]
+  }
+}
